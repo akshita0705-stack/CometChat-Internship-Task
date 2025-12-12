@@ -1,4 +1,4 @@
-# 🚀 CometChat React UI Kit v6 – Internship Task  
+#CometChat React UI Kit v6 – Internship Task  
 
 This repository contains my completed CometChat Internship Task.  
 I implemented a full-featured chat application using the **CometChat React UI Kit (v6)**, including:
@@ -22,7 +22,7 @@ https://drive.google.com/drive/folders/1iUHaB-l8eVwAnggBIfQhW4CK7ltclMRK?usp=sha
 
 ---
 
-## 📌 Features Implemented
+## Features Implemented
 
 ### **💬 Chat**
 - One-to-one messaging  

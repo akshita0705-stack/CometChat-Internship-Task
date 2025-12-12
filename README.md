@@ -1,33 +1,47 @@
-<p align="center">
-  <img alt="CometChat" src="https://assets.cometchat.io/website/images/logos/banner.png">
-</p>
+# 🚀 CometChat React UI Kit v6 – Internship Task  
 
-# CometChat UI Kit for React
+This repository contains my completed CometChat Internship Task.  
+I implemented a full-featured chat application using the **CometChat React UI Kit (v6)**, including:
 
-The CometChat React UI Kit provides a pre-built user interface kit that developers can use to quickly integrate a reliable & fully-featured chat experience into an existing or a new app.
+- Real-time messaging  
+- Voice calling  
+- Video calling  
+- User presence  
+- AI Agents  
+- Custom bot replies  
+- Full UI Kit integration  
 
-<div style="display: flex; align-items: center; justify-content: center;">
-   <img src="./screenshots/sample_app_overview.png" />  
-</div>
+---
 
-## ðŸš€ Explore the Sample App!
+## 📸 Screenshots
 
-Dive straight into our [Sample App](https://github.com/cometchat/cometchat-uikit-react/blob/v6/sample-app/README.md#installation) to see CometChat UI Kit in action! Whether you're building a messaging app or enhancing your existing project, this sample app showcases the full potential of our React UI components.
+All screenshots used in this project can be found here:
 
-## Prerequisites
+👉 **Google Drive Folder:**  
+https://drive.google.com/drive/folders/1iUHaB-l8eVwAnggBIfQhW4CK7ltclMRK?usp=sharing
 
-- Node.js >= 14.17.0
-- npm >= 7
+---
 
-## Getting Started
+## 📌 Features Implemented
 
-To set up CometChat React UI Kit and utilize CometChat for your chat and calls functionality, you'll need to follow these steps:
+### **💬 Chat**
+- One-to-one messaging  
+- Delivery receipts (✓ sent, ✓✓ delivered)  
+- Typing indicators  
+- Online/offline presence  
 
-- Register at the [CometChat Dashboard](https://app.cometchat.com/) to create an account.
-- After registering, log into your CometChat account and create a new app. Once created, CometChat will generate an Auth Key and App ID for you. Keep these credentials secure as you'll need them later.
-- Check the [Key Concepts](https://www.cometchat.com/docs/fundamentals/key-concepts) to understand the basic components of CometChat.
-- Refer to the [Integration Steps](https://www.cometchat.com/docs/ui-kit/react/v6/integration) in our documentation to integrate the UI Kit into your React app.        
+### **📞 Calling**
+- Voice calling  
+- Video calling  
+- Call UI provided by CometChat UI Kit  
 
-## Help and Support
+### **🤖 AI Agents**
+- Connected **HelperAI** from dashboard → Working correctly  
+- Integrated AI responses in UI Kit  
 
-For issues running the project or integrating with our UI Kits, consult our [documentation](https://www.cometchat.com/docs/ui-kit/react/v6/integration) or create a [support ticket](https://help.cometchat.com/hc/en-us) or seek real-time support via the [CometChat Dashboard](https://app.cometchat.com/).
+### **👥 User Management**
+- Created multiple users in dashboard  
+- Verified login flow  
+- Tested user switching  
+
+
